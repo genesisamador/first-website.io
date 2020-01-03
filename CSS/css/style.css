@@ -6,7 +6,7 @@ img {
   width:300px;
   height:200px;
   border:5px solid #FF9328;
-  animation: oop 1s linear 2s infinite alternate;
+  animation: oop 1s linear 1s infinite alternate;
 }
 .text {
     font-family: 'Raleway', sans-serif;
