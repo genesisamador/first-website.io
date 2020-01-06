@@ -1,1 +1,0 @@
-# genesisamador.io
